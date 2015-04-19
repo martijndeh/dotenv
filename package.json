@@ -1,14 +1,14 @@
 {
-  "name": "dotenv",
-  "version": "1.1.0",
-  "description": "Loads environment variables from .env file",
+  "name": "dotenv-save",
+  "version": "1.2.0",
+  "description": "Loads and saves environment variables from .env file",
   "main": "lib/main.js",
   "scripts": {
-    "test": "lab test/* --coverage && standard"
+    "test": "lab test/* --coverage"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/motdotla/dotenv.git"
+    "url": "git://github.com/martijndeh/dotenv.git"
   },
   "keywords": [
     "dotenv",
